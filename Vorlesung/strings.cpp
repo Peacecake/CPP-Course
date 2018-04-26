@@ -4,6 +4,10 @@
 
 using namespace std;
 
+/**
+ *  Für UTF-8 encodeing: ICU Bibliothek von IBM (http://site.icu-project.org/)
+ */
+
 int main()
 {
   string s;
