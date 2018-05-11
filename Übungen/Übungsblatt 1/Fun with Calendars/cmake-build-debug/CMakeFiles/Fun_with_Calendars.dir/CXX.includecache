@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/CalendarDate.cpp
+CalendarDate.h
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/CalendarDate.h
+Easter.h
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/Easter.h
+sstream
+-
+iostream
+-
+
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/CalendarDate.h
+string
+-
+
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/Easter.cpp
+Easter.h
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/Easter.h
+
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/Easter.h
+CalendarDate.h
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/CalendarDate.h
+
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/main.cpp
+iostream
+-
+CalendarDate.h
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/CalendarDate.h
+

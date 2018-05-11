@@ -1,0 +1,4 @@
+/snap/clion/19/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/cmake-build-debug

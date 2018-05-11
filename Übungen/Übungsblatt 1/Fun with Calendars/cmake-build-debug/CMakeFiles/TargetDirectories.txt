@@ -1,0 +1,3 @@
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sebastian/dev/CPP-Course/Übungen/Übungsblatt 1/Fun with Calendars/cmake-build-debug/CMakeFiles/Fun_with_Calendars.dir
